@@ -1,0 +1,20 @@
+shift arrow key work but not alt arrow key... somehow
+
+
+→ this does work. Just not in terminator. Mainly because it conflict with termantior's shortcut key.
+
+
+`setw -g mouse off`  => give you back the mouse based copy and paste.  
+
+→ but then we lose the ability to scroll the screen.
+https://unix.stackexchange.com/questions/312261/tmux-mouse-scrolling-without-altering-copy-paste
+
+
+just do ctrl+b , [.   Then you can use page-up and page-down key. 
+To exit, simply type ‘q’
+⇒ this is basically a vi mode command!
+⇒ you can't do with mouse.. but it is good the less you use mouse and more with keyboard. 
+https://superuser.com/questions/209437/how-do-i-scroll-in-tmux
+
+
+
