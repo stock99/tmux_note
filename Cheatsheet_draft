@@ -97,10 +97,12 @@ the use ‘space’ to select area to copy .
 press ‘y’  to copy to system clipboard (so you can paste into cherrytree)
 press ‘enter’ will only copy to tmux buffer. 
 
+#Right click on gnome terminal , you can re-enable 'show menu' bar. 
 
 ============
 ref:
 https://gist.github.com/spicycode/1229612
-
-
+https://github.com/tmux-plugins/tmux-logging
+https://gist.github.com/ryerh/14b7c24dfd623ef8edc7
+https://github.com/samoshkin/tmux-config
 
