@@ -36,9 +36,6 @@ git add .
 git commit -m “add existing files”
 git push origin master
 
-Username and password:
-testhack.one@gmail.com
-xxxxxxxx
 
 
 https://github.com/stock99/tmux_note
