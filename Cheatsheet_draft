@@ -98,6 +98,9 @@ press ‘y’  to copy to system clipboard (so you can paste into cherrytree)
 press ‘enter’ will only copy to tmux buffer. 
 
 
+============
+ref:
+https://gist.github.com/spicycode/1229612
 
 
 
