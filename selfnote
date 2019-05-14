@@ -47,4 +47,18 @@ https://help.github.com/articles/adding-a-file-to-a-repository-using-the-command
 #in cherrytree, press F8 in cherry tree. it can create note based on today's date
 
 
+[problem]:
+problem.  
+
+I can't specifically do ctrl + shift + o ..   now, the tmux take `ctrl o` as well...
+
+`bind -n ` mean what follow is the command *without* using triggering prefix command. 
+
+
+# Need to workout clipboard problem. Also scrolling problem.  I need to copy xml screen and paste into some web page.  ...
+https://unix.stackexchange.com/questions/131011/use-system-clipboard-in-vi-copy-mode-in-tmux
+
+http://www.rushiagr.com/blog/2016/06/16/everything-you-need-to-know-about-tmux-copy-pasting-ubuntu/
+
+https://forums.gentoo.org/viewtopic-t-888724-start-0.html
 
