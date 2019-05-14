@@ -1,0 +1,103 @@
+# create a new tmux session
+tmux new -s myname
+
+# to kill a tmux session
+tmux kill-session -t myname
+
+#To attach back to active tmux sessions:
+tmux a -t session_name
+
+#or simply do the following if you only have one session
+tmux a #
+
+#To list all tmux session:
+tmux ls   
+
+
+ctrl + r  = search command. 
+
+ctrl + b = triggering command. 
+
+
+ctrl + b , then press c will create a new windows
+
+
+
+
+
+
+To split a windows (still under same window name, and inside a single session can have multiple windows):
+ctrl + b , arrow key   ==>to select windows.    Just to alt + arrow key. 
+ctrl + O 
+ctrl + T
+
+
+ctrl + b ,  z      ⇒ full screen the current pannel .  Do it again to go back. 
+
+
+# how to screen capture
+
+
+# how to log a pannel 
+
+
+
+
+
+# reload tmux config
+tmux source-file ~/.tmux.conf
+
+
+# toggle on and off logging
+prefix + shift + p
+
+# copy text on screen into text file: (not the same as logging all command or screendump. eg. it can capture ‘top’ command)
+prefix + alt + p
+
+# save everything into on the pannel into file.
+prefix + alt + shift + p 
+
+
+
+#ctrl [   => go into copy mode.  we can select line using ‘space bar' .
+
+-> but this copy is only saved in tmux-clipboard specifically.   You can only place it in tmux. 
+
+# ctrl ] => paste tmux clipboard back to console. 
+
+
+# ctrl + b , then space
+→ this will cycle through different layout of the splitted windows. 
+
+# cycle through the directory (cycle through arguments after the command)
+alt + . 
+eg. ls /opt
+we can do `cd` and then `alt + .`
+
+
+
+
+# trigger key sequence (ctrl + b) , then press one of the following letter  (eg. naming a windows). 
+c  create window
+w  list windows
+n  next window
+p  previous window
+f  find window
+,  name window
+&  kill window
+
+
+
+
+# copy and paste globally. 
+
+ctrl + b , [   # this is to copy
+the use ‘space’ to select area to copy .
+
+press ‘y’  to copy to system clipboard (so you can paste into cherrytree)
+press ‘enter’ will only copy to tmux buffer. 
+
+
+
+
+
