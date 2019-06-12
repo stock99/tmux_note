@@ -18,8 +18,10 @@ ctrl + r  = search command.
 
 ctrl + b = triggering command. 
 
-
 ctrl + b , then press c will create a new windows
+
+# kill a frozen screen
+ctrl + b,  & 
 
 
 
