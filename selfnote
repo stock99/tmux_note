@@ -13,6 +13,8 @@ https://unix.stackexchange.com/questions/312261/tmux-mouse-scrolling-without-alt
 just do ctrl+b , [.   Then you can use page-up and page-down key. 
 To exit, simply type ‘q’
 ⇒ this is basically a vi mode command!
+=> to search, simply hit '/' key. press 'n' to jump to next searched result.  
+=> Right hand top corner will show the number of result found.
 ⇒ you can't do with mouse.. but it is good the less you use mouse and more with keyboard. 
 https://superuser.com/questions/209437/how-do-i-scroll-in-tmux
 
