@@ -64,3 +64,7 @@ http://www.rushiagr.com/blog/2016/06/16/everything-you-need-to-know-about-tmux-c
 
 https://forums.gentoo.org/viewtopic-t-888724-start-0.html
 
+
+[pasting from clipboard]:
+press "i" key in vi, then do ctrl + shift + v.  you can then paste from non-tmux clipboard to the terminal.  
+-> or you can simply use nano instead of vi, which right click will work...
