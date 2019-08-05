@@ -48,6 +48,10 @@ https://help.github.com/articles/adding-a-file-to-a-repository-using-the-command
 
 #in cherrytree, press F8 in cherry tree. it can create note based on today's date
 
+searching upward or downward.(vi command shorcut)
+ctrl + b + [, then / will let you search downward. [pressing n key will search next downward item]
+ctrl + b + [, then ? will let you search upward.   [pressing n key will search next upward item]
+
 
 [problem]:
 problem.  
