@@ -20,8 +20,11 @@ ctrl + b = triggering command.
 
 ctrl + b , then press c will create a new windows
 
-# kill a frozen screen
+# kill a frozen screen (note this will kill all panes along with it)
 ctrl + b,  & 
+# kill a frozen pane.
+ctrl + b, x
+
 
 
 
