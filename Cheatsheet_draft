@@ -92,7 +92,8 @@ f  find window
 &  kill window
 
 
-
+# shift key seem dead when using putty with tmux. 
+https://superuser.com/questions/1223266/shift-arrow-keys-working-in-kitty-but-not-putty-for-nested-tmux-configuration
 
 # copy and paste globally. 
 
